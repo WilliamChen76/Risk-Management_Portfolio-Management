@@ -1,1 +1,3 @@
+Aside of managing our portfolio through theoratical methodolodies like Market Portfolio (MKT), Equally Weighted Portfolio (EWP), Tangency Portfolio (TAN) and Global Minimum Variance Portfolio (GMV), we also break through traditional portfolio management framework by introducing LLM-supporting decision-making process. Instead of feeding the dataframe directly to LLM, to enhance and maximize great use of this emerging technology, we turned to build up some tools to let LLM to choose from and utilize before prompting. By doing so, we ensure the stability of LLM's output and the interpretability of decision-making process in LLM as well. 
+
 ![image](https://github.com/user-attachments/assets/b091ae2a-2ea4-4fca-91dc-e2df172e9bae)
